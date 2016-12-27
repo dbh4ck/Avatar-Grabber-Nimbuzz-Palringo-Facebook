@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Avatar Grabber DB~@NC</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="abtapp">Avatar Grabber Nimbuuzz, Palringo, Facebook</string>
+    <string name="coder">Coded By DB~@NC</string>
+    <string name="blog">Blog: http://dbh4ck.blogspot.in</string>
+    <string name="mail">Email: dbh4ck@gmail.com</string>
+</resources>
